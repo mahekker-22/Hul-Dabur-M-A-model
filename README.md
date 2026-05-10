@@ -1,6 +1,6 @@
 # Hul-Dabur-M-A-model
 
-This project presents a detailed Merger & Acquisition (M&A) financial model based on a hypothetical acquisition of Dabur India by Hindustan Unilever (HUL). The analysis includes:
+**This project presents a detailed Merger & Acquisition (M&A) financial model based on a hypothetical acquisition of Dabur India by Hindustan Unilever (HUL). The analysis includes:**
 
 Accretion/Dilution analysis
 
@@ -19,5 +19,7 @@ EPS impact analysis
 Scenario analysis (Bear, Base, Bull)
 
 Valuation and strategic rationale
+
+**Disclaimer:** This project is developed strictly for academic and educational purposes. The transaction assumptions, valuation metrics, and financial projections are hypothetical and should not be interpreted as actual investment, merger, or financial advice.
 
 
